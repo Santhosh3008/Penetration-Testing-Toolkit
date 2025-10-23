@@ -28,19 +28,6 @@ This toolkit includes key modules such as Port Scanner, Brute Forcer, and Vulner
     Command-Line Interface (CLI) for easy and flexible usage.
 
     Lightweight, fast, and beginner-friendly design.
-**
-**📂 Project Structure****
-Penetration-Toolkit/
-│
-├── main.py                          # Entry point for the toolkit
-├── toolkit/
-│   ├── port_scanner.py              # Port scanning module
-│   ├── brute_forcer.py              # Brute-force attack module
-│   ├── vulnerability_scanner.py     # SQLi & XSS detection module
-│   └── utils.py                     # Utility functions (e.g., IP validation)
-│
-├── requirements.txt                 # Dependencies (if any)
-└── README.md                        # Project documentation
 
 ****⚙️ Installation****
 
@@ -97,3 +84,5 @@ python main.py vuln http://example.com/search q
 ****This toolkit is created strictly for educational and ethical purposes.
 Use it only on systems you own or have explicit permission to test.
 The author is not responsible for any misuse or illegal activities.****
+
+****Output:****
