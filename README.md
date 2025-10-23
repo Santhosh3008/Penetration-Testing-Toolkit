@@ -49,6 +49,7 @@ source .venv/bin/activate      # On macOS/Linux
 pip install -r requirements.txt
 
 ****🧠 Usage****
+
 **🔍 Port Scanner**
 
 Scan open ports on a target:
@@ -77,7 +78,7 @@ python main.py vuln <url> <parameter>
 
 **Example:**
 
-python main.py vuln http://example.com/search q
+python main.py vuln http://example.com/search query
 
 ****⚠️ Disclaimer****
 
