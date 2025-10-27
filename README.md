@@ -87,3 +87,4 @@ Use it only on systems you own or have explicit permission to test.
 The author is not responsible for any misuse or illegal activities.****
 
 ****Output:****
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5b0334f0-bd86-447d-b3b4-313e33ade718" />
